@@ -4,4 +4,10 @@ School project for the first semester HvA Amsterdam. The assignment was to write
 
 
 
-The thing of beauty here, is whenever I update this, you'll see it on GH
+The thing of beauty here, is whenever I update this, you'll see it on GH&#x20;
+
+
+
+
+
+Ik pas dit aan
